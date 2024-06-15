@@ -16,17 +16,17 @@
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 
-	<link href="css/animate.css" rel="stylesheet" />
+  <link href="css/animate.css" rel="stylesheet" />
     <link href="css/style.css" rel="stylesheet">
-	<link href="color/default.css" rel="stylesheet">
+  <link href="color/default.css" rel="stylesheet">
 
 </head>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
-	<!-- Preloader -->
-	<div id="preloader">
-	  <div id="load"></div>
-	</div>
+  <!-- Preloader -->
+  <div id="preloader">
+    <div id="load"></div>
+  </div>
 
     <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
         <div class="container">
@@ -44,8 +44,8 @@
       <ul class="nav navbar-nav">
         <li class="active"><a href="#intro">Home</a></li>
         <li><a href="#projects">Projects</a></li>
-		<li><a href="#skills">Skills</a></li>
-		<li><a href="#contact">Contact</a></li>
+    <li><a href="#skills">Skills</a></li>
+    <li><a href="#contact">Contact</a></li>
       </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -53,44 +53,44 @@
         <!-- /.container -->
     </nav>
 
-	<!-- Section: intro -->
+  <!-- Section: intro -->
     <section id="intro" class="intro">
 
-		<div class="slogan">
-			<h2>GREG <span class="text_color">FRENCH</span> </h2>
-			<h4>SOFTWARE ENGINEER IN GUELPH, ON CANADA</h4>
-		</div>
-		<div class="page-scroll">
-			<a href="#projects" class="btn btn-circle">
-				<i class="fa fa-angle-double-down animated"></i>
-			</a>
-		</div>
+    <div class="slogan">
+      <h2>GREG <span class="text_color">FRENCH</span> </h2>
+      <h4>SOFTWARE ENGINEER IN GUELPH, ON CANADA</h4>
+    </div>
+    <div class="page-scroll">
+      <a href="#projects" class="btn btn-circle">
+        <i class="fa fa-angle-double-down animated"></i>
+      </a>
+    </div>
     </section>
-	<!-- /Section: intro -->
+  <!-- /Section: intro -->
 
-	<!-- Section: projects -->
+  <!-- Section: projects -->
   <section id="projects" class="home-section text-center">
-		<div class="heading-about">
-			<div class="container">
-			<div class="row">
-				<div class="col-lg-8 col-lg-offset-2">
-					<div class="wow bounceInDown" data-wow-delay="0.4s">
-					<div class="section-heading">
-					<h2>Latest Projects</h2>
-					<i class="fa fa-2x fa-angle-down"></i>
+    <div class="heading-about">
+      <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          <div class="wow bounceInDown" data-wow-delay="0.4s">
+          <div class="section-heading">
+          <h2>Latest Projects</h2>
+          <i class="fa fa-2x fa-angle-down"></i>
 
-					</div>
-					</div>
-				</div>
-			</div>
-			</div>
-		</div>
-		<div class="container">
-  		<div class="row">
-  			<div class="col-lg-2 col-lg-offset-5">
-  				<hr class="marginbot-50">
-  			</div>
-  		</div>
+          </div>
+          </div>
+        </div>
+      </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-2 col-lg-offset-5">
+          <hr class="marginbot-50">
+        </div>
+      </div>
       <div class="section-heading">
         <h3>WEB</h3>
       </div>
@@ -139,7 +139,7 @@
                     <div class="avatar"><img src="img/jennes-boutique.png" alt="" class="img-responsive" /></div>
                   </div>
                 </div>
-      				</div>
+              </div>
             </div>
             <div class="col-xs-12 col-sm-6">
               <div class="wow bounceInUp" data-wow-delay="1s">
@@ -195,7 +195,7 @@
                     <div class="avatar"><img src="img/gender-classification.png" alt="" class="img-responsive" /></div>
                   </div>
                 </div>
-      				</div>
+              </div>
             </div>
             <div class="col-xs-12 col-sm-6">
               <div class="wow bounceInUp" data-wow-delay="1s">
@@ -212,118 +212,118 @@
       </div>
     </div>
   </section>
-	<!-- /Section: about -->
+  <!-- /Section: about -->
 
 
-	<!-- Section: skills -->
+  <!-- Section: skills -->
     <section id="skills" class="home-section text-center bg-gray">
 
-		<div class="heading-about">
-			<div class="container">
-			<div class="row">
-				<div class="col-lg-8 col-lg-offset-2">
-					<div class="wow bounceInDown" data-wow-delay="0.4s">
-					<div class="section-heading">
-					<h2>Skills</h2>
-					<i class="fa fa-2x fa-angle-down"></i>
+    <div class="heading-about">
+      <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          <div class="wow bounceInDown" data-wow-delay="0.4s">
+          <div class="section-heading">
+          <h2>Skills</h2>
+          <i class="fa fa-2x fa-angle-down"></i>
 
-					</div>
-					</div>
-				</div>
-			</div>
-			</div>
-		</div>
-		<div class="container">
-		<div class="row">
-			<div class="col-lg-2 col-lg-offset-5">
-				<hr class="marginbot-50">
-			</div>
-		</div>
-        <div class="row">
-            <div class="col-xs-12 col-sm-6 col-md-3">
-				<div class="wow fadeInLeft" data-wow-delay="0.2s">
-                <div class="service-box">
-					<div class="service-icon">
-						<i class="fas fa-desktop" aria-hidden="true"></i>
-					</div>
-					<div class="service-desc">
-						<h5>WEB</h5>
-						<p>HTML, CSS, JavaScript, jQuery, VueJS, PHP, Laravel</p>
-					</div>
-                </div>
-				</div>
-            </div>
-			<div class="col-xs-12 col-sm-6 col-md-3">
-				<div class="wow fadeInUp" data-wow-delay="0.2s">
-                <div class="service-box">
-					<div class="service-icon">
-            <i class="fas fa-mobile" aria-hidden="true"></i>
-					</div>
-					<div class="service-desc">
-						<h5>MOBILE</h5>
-						<p>Android, Java, React Native, IOS</p>
-					</div>
-                </div>
-				</div>
-            </div>
-			<div class="col-xs-12 col-sm-6 col-md-3">
-				<div class="wow fadeInUp" data-wow-delay="0.2s">
-          <div class="service-box">
-  					<div class="service-icon">
-              <i class="fas fa-vr-cardboard"></i>
-  					</div>
-  					<div class="service-desc">
-  						<h5>VR / 3D Graphics</h5>
-  						<p>Unity, C#</p>
-  					</div>
           </div>
-				</div>
+          </div>
+        </div>
       </div>
-			<div class="col-xs-12 col-sm-6 col-md-3">
-				<div class="wow fadeInRight" data-wow-delay="0.2s">
-          <div class="service-box">
-  					<div class="service-icon">
-              <i class="fas fa-robot"></i>
-  					</div>
-  					<div class="service-desc">
-  						<h5>Machine Learning</h5>
-  						<p>Tensorflow, Python</p>
-  					</div>
-          </div>
-				</div>
       </div>
     </div>
-		</div>
-	</section>
-	<!-- /Section: services -->
+    <div class="container">
+    <div class="row">
+      <div class="col-lg-2 col-lg-offset-5">
+        <hr class="marginbot-50">
+      </div>
+    </div>
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-3">
+        <div class="wow fadeInLeft" data-wow-delay="0.2s">
+                <div class="service-box">
+          <div class="service-icon">
+            <i class="fas fa-desktop" aria-hidden="true"></i>
+          </div>
+          <div class="service-desc">
+            <h5>WEB</h5>
+            <p>HTML, CSS, JavaScript, jQuery, VueJS, PHP, Laravel</p>
+          </div>
+                </div>
+        </div>
+            </div>
+      <div class="col-xs-12 col-sm-6 col-md-3">
+        <div class="wow fadeInUp" data-wow-delay="0.2s">
+                <div class="service-box">
+          <div class="service-icon">
+            <i class="fas fa-mobile" aria-hidden="true"></i>
+          </div>
+          <div class="service-desc">
+            <h5>MOBILE</h5>
+            <p>Android, Java, React Native, IOS</p>
+          </div>
+                </div>
+        </div>
+            </div>
+      <div class="col-xs-12 col-sm-6 col-md-3">
+        <div class="wow fadeInUp" data-wow-delay="0.2s">
+          <div class="service-box">
+            <div class="service-icon">
+              <i class="fas fa-vr-cardboard"></i>
+            </div>
+            <div class="service-desc">
+              <h5>VR / 3D Graphics</h5>
+              <p>Unity, C#</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-3">
+        <div class="wow fadeInRight" data-wow-delay="0.2s">
+          <div class="service-box">
+            <div class="service-icon">
+              <i class="fas fa-robot"></i>
+            </div>
+            <div class="service-desc">
+              <h5>Machine Learning</h5>
+              <p>Tensorflow, Python</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+  </section>
+  <!-- /Section: services -->
 
 
 
 
-	<!-- Section: contact -->
+  <!-- Section: contact -->
     <section id="contact" class="home-section text-center">
-		<div class="heading-contact">
-			<div class="container">
-			<div class="row">
-				<div class="col-lg-8 col-lg-offset-2">
-					<div class="wow bounceInDown" data-wow-delay="0.4s">
-					<div class="section-heading">
-					<h2>Get in touch</h2>
-					<i class="fa fa-2x fa-angle-down"></i>
+    <div class="heading-contact">
+      <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          <div class="wow bounceInDown" data-wow-delay="0.4s">
+          <div class="section-heading">
+          <h2>Get in touch</h2>
+          <i class="fa fa-2x fa-angle-down"></i>
 
-					</div>
-					</div>
-				</div>
-			</div>
-			</div>
-		</div>
-		<div class="container">
+          </div>
+          </div>
+        </div>
+      </div>
+      </div>
+    </div>
+    <div class="container">
 
-		<div class="row">
-			<div class="col-lg-2 col-lg-offset-5">
-				<hr class="marginbot-50">
-			</div>
-		</div>
+    <div class="row">
+      <div class="col-lg-2 col-lg-offset-5">
+        <hr class="marginbot-50">
+      </div>
+    </div>
     <div class="row">
       <div class="col-lg-2">
       &nbsp;
@@ -369,38 +369,38 @@
             </div>
         </div>
 
-		<div class="col-lg-2">
-			&nbsp;
-		</div>
+    <div class="col-lg-2">
+      &nbsp;
+    </div>
     </div>
 
-		</div>
-	</section>
-	<!-- /Section: contact -->
+    </div>
+  </section>
+  <!-- /Section: contact -->
 
-	<footer>
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12 col-lg-12">
-					<div class="wow shake" data-wow-delay="0.4s">
-					<div class="page-scroll marginbot-30">
-						<a href="#intro" id="totop" class="btn btn-circle">
-							<i class="fa fa-angle-double-up animated"></i>
-						</a>
-					</div>
-					</div>
-					<p>&copy;Copyright <?php echo date("Y"); ?>. All rights reserved.</p>
-				</div>
-			</div>
-		</div>
-	</footer>
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 col-lg-12">
+          <div class="wow shake" data-wow-delay="0.4s">
+          <div class="page-scroll marginbot-30">
+            <a href="#intro" id="totop" class="btn btn-circle">
+              <i class="fa fa-angle-double-up animated"></i>
+            </a>
+          </div>
+          </div>
+          <p>&copy;Copyright <?php echo date("Y"); ?>. All rights reserved.</p>
+        </div>
+      </div>
+    </div>
+  </footer>
 
     <!-- Core JavaScript Files -->
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery.easing.min.js"></script>
-  	<script src="js/jquery.scrollTo.js"></script>
-  	<script src="js/wow.min.js"></script>
+    <script src="js/jquery.scrollTo.js"></script>
+    <script src="js/wow.min.js"></script>
     <!-- Custom Theme JavaScript -->
     <script src="js/custom.js"></script>
 
