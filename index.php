@@ -157,15 +157,17 @@
       <div class="row new-projects">
         <div class="col-sm-6">
           <div class="section-heading">
-            <h3>VR / 3D Graphics</h3>
+            <h3>Mobile</h3>
           </div>
           <div class="row">
             <div class="col-xs-12 col-sm-6">
               <div class="wow bounceInUp" data-wow-delay="0.2s">
                 <div class="team boxed-grey">
                   <div class="inner">
-                    <h5>VR Haunted House</h5>
-                    <div class="avatar"><img src="img/haunted-house.png" alt="" class="img-responsive" /></div>
+                    <h5>Open Way</h5>
+                    <div class="avatar">
+                      <img src="img/openway-app.jpg" alt="" class="img-responsive" />
+                    </div>
                   </div>
                 </div>
               </div>
@@ -174,8 +176,8 @@
               <div class="wow bounceInUp" data-wow-delay="0.5s">
                 <div class="team boxed-grey">
                   <div class="inner">
-                    <h5>Unity Procedural Stair Builder</h5>
-                    <div class="avatar"><img src="img/procedural-stair-builder.png" alt="" class="img-responsive" /></div>
+                    <h5>Cast</h5>
+                    <div class="avatar"><img src="img/cast.jpg" alt="" class="img-responsive" /></div>
                   </div>
                 </div>
               </div>
@@ -201,8 +203,8 @@
               <div class="wow bounceInUp" data-wow-delay="1s">
                 <div class="team boxed-grey">
                   <div class="inner">
-                    <h5>Image Super Resolution</h5>
-                    <div class="avatar"><img src="img/super-resolution.png" alt="" class="img-responsive" /></div>
+                    <h5>Easy 21 (Blackjack RL solver)</h5>
+                    <div class="avatar"><img src="img/blackjack.jpg" alt="" class="img-responsive" /></div>
                   </div>
                 </div>
               </div>
