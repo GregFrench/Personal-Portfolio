@@ -76,7 +76,7 @@
         <div class="col-lg-8 col-lg-offset-2">
           <div class="wow bounceInDown" data-wow-delay="0.4s">
           <div class="section-heading">
-          <h2>Latest Projects</h2>
+          <h2>Projects</h2>
           <i class="fa fa-2x fa-angle-down"></i>
 
           </div>
@@ -248,7 +248,7 @@
           </div>
           <div class="service-desc">
             <h5>WEB</h5>
-            <p>HTML, CSS, JavaScript, jQuery, VueJS, PHP, Laravel</p>
+            <p>HTML, CSS, JavaScript, React, Node.js</p>
           </div>
                 </div>
         </div>
@@ -261,7 +261,7 @@
           </div>
           <div class="service-desc">
             <h5>MOBILE</h5>
-            <p>Android, Java, React Native, IOS</p>
+            <p>React Native, Android, iOS</p>
           </div>
                 </div>
         </div>
@@ -287,7 +287,7 @@
             </div>
             <div class="service-desc">
               <h5>Machine Learning</h5>
-              <p>Tensorflow, Python</p>
+              <p>PyTorch, Python, NumPy</p>
             </div>
           </div>
         </div>
