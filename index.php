@@ -12,7 +12,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
 
     <!-- Fonts -->
-    <!--<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">-->
+    <script src="https://kit.fontawesome.com/1ee840f9e5.js" crossorigin="anonymous"></script>
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 
@@ -246,7 +246,7 @@
         <div class="wow fadeInLeft" data-wow-delay="0.2s">
                 <div class="service-box">
           <div class="service-icon">
-            <i class="fas fa-desktop" aria-hidden="true"></i>
+            <i class="fa fa-desktop" aria-hidden="true"></i>
           </div>
           <div class="service-desc">
             <h5>WEB</h5>
@@ -259,7 +259,7 @@
         <div class="wow fadeInUp" data-wow-delay="0.2s">
                 <div class="service-box">
           <div class="service-icon">
-            <i class="fas fa-mobile" aria-hidden="true"></i>
+            <i class="fa fa-mobile" aria-hidden="true"></i>
           </div>
           <div class="service-desc">
             <h5>MOBILE</h5>
@@ -272,7 +272,7 @@
         <div class="wow fadeInUp" data-wow-delay="0.2s">
           <div class="service-box">
             <div class="service-icon">
-              <i class="fas fa-vr-cardboard"></i>
+              <i class="fa fa-vr-cardboard"></i>
             </div>
             <div class="service-desc">
               <h5>VR / 3D Graphics</h5>
@@ -285,7 +285,7 @@
         <div class="wow fadeInRight" data-wow-delay="0.2s">
           <div class="service-box">
             <div class="service-icon">
-              <i class="fas fa-robot"></i>
+              <i class="fa fa-robot"></i>
             </div>
             <div class="service-desc">
               <h5>Machine Learning</h5>
